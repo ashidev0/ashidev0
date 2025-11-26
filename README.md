@@ -18,15 +18,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) *(learning)*
 
-### 📊 GitHub Stats
-
-![Ashkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashidev0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashidev0&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashidev0&theme=tokyonight&hide_border=true)
-
 ### 📫 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashidev0)  
