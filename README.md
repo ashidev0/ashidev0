@@ -1,12 +1,10 @@
 # Hi there, I'm Ashkan Dariya 👋
 
-**Mid-level Flutter & Dart Developer | Passionate about Clean Code & Beautiful UIs**
+**Flutter & Dart Developer | Passionate about Clean Code & Beautiful UIs**
 
-🌍 Based in Iran  
 🔭 Currently focusing on personal Flutter projects and skill improvement  
 🌱 Strengthening Dart/Flutter expertise and actively learning C# (.NET)  
-💡 Open to collaboration and freelance opportunities  
-⚡ Fun fact: I love turning complex ideas into smooth, pixel-perfect mobile experiences
+💡 Open to collaboration and freelance opportunities
 
 ### 🔧 Technologies & Tools
 
@@ -25,15 +23,13 @@
 
 ### 🚀 Current Focus
 
-- Building high-quality, maintainable Flutter applications  
-- Exploring state management solutions (Riverpod, Bloc, Provider)  
-- Deepening knowledge of clean architecture and SOLID principles in mobile development  
+- Building high-quality, maintainable Flutter applications
+- Exploring state management solutions (Riverpod, Bloc, Provider)
+- Deepening knowledge of clean architecture and SOLID principles in mobile development
 - Starting my C# /.NET journey (currently junior level, actively learning)
 
 → More projects coming soon as I continue to grow and contribute!
 
 ---
-
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 Thanks for stopping by! Feel free to reach out — always happy to discuss Flutter ♥
