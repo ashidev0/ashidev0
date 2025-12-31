@@ -1,4 +1,4 @@
-# Hi there, I'm Ashkan Dariya 👋
+# Hi there, I'm Ashkan 👋
 
 **Flutter & Dart Developer | Passionate about Clean Code & Beautiful UIs**
 
